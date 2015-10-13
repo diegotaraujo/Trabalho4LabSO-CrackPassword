@@ -1,0 +1,1 @@
+gcc crack-passwd.c -o crack-passwd -Wall -g -pthread -lcrypt
